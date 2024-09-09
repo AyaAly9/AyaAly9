@@ -64,10 +64,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://dart.dev/guides" target="_blank"> 
-     <img alt="dart" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg">
-   </a>
-  &emsp;
+  
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
